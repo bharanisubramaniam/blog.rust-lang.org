@@ -8,6 +8,7 @@ $red: #a72145;
 $green: #0b7261;
 $purple: #2e2459;
 $yellow: #ffc832;
+$green-lite: #84DE02;
 
 html {
   font-size: 62.5%
@@ -115,7 +116,7 @@ div.brand {
 .white {
    color: black;
   .highlight {
-    background-color: $yellow;
+    background-color: $green-lite;
   }
   a {
     color: $gray;

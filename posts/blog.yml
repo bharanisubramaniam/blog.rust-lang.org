@@ -1,10 +1,8 @@
-title: Rust Blog
-index-title: The Rust Programming Language Blog
-link-text: the main Rust blog
-description: Empowering everyone to build reliable and efficient software.
-index-html: This is the <b>main Rust blog</b>. The
-            <a href="https://www.rust-lang.org/governance/teams/core">core team</a>
-            uses this blog to announce big developments in the world of Rust.
-maintained-by: the Rust Team
+title: Iter 0
+index-title: Iter 0
+link-text: Iter 0
+description: Iter0 is my personal blog. This is my attempt to write down my experience in trying out different software solutions. 
+index-html: Welcome to Iter0, my personal blog. This is my attempt to capture the experience of trying out different software solutions. 
+maintained-by: Bharani
 requires-team: false
 
